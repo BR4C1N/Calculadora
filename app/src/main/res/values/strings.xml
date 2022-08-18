@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="resultado">=</string>
+    <string name="somar">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">x</string>
+    <string name="divisao">/</string>
+    <string name="numero9">9</string>
+    <string name="numero8">8</string>
+    <string name="numero7">7</string>
+    <string name="numero6">6</string>
+    <string name="numero5">5</string>
+    <string name="numero4">4</string>
+    <string name="numero3">3</string>
+    <string name="numero2">2</string>
+    <string name="numero1">1</string>
+    <string name="numero0">0</string>
 </resources>
