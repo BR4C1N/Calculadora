@@ -159,4 +159,13 @@
         app:layout_constraintBottom_toTopOf="@+id/botao3"
         app:layout_constraintStart_toEndOf="@+id/botao5" />
 
+    <TextView
+        android:id="@+id/campoTexto"
+        android:layout_width="392dp"
+        android:layout_height="268dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="39dp"
+        app:layout_constraintBottom_toTopOf="@+id/botaoMultiplicar"
+        app:layout_constraintStart_toStartOf="parent" />
+
 </android.support.constraint.ConstraintLayout>
