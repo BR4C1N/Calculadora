@@ -4,7 +4,7 @@
     <string name="somar">+</string>
     <string name="subtracao">-</string>
     <string name="multiplicacao">x</string>
-    <string name="divisao">/</string>
+    <string name="divisao">÷</string>
     <string name="numero9">9</string>
     <string name="numero8">8</string>
     <string name="numero7">7</string>
@@ -15,4 +15,6 @@
     <string name="numero2">2</string>
     <string name="numero1">1</string>
     <string name="numero0">0</string>
+    <string name="ponto">.</string>
+    <string name="apagar"><![CDATA[<-]]></string>
 </resources>
