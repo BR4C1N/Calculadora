@@ -57,13 +57,13 @@ public class MainActivity extends AppCompatActivity {
         botao8 = findViewById(R.id.botao8);
         botao9 = findViewById(R.id.botao9);
 
-        botaoDivisao = findViewById(R.id.botaoDividir);
-        botaoMultiplicacao = findViewById(R.id.botaoMultiplicar);
+        botaoAdicao = findViewById(R.id.botaoSomar);
         botaoSubtrair = findViewById(R.id.botaoSubtrair);
-        botaoAdicao = findViewById(R.id.botaoAdicao);
+        botaoMultiplicacao = findViewById(R.id.botaoMultiplicar);
+        botaoDivisao = findViewById(R.id.botaoDividir);
+        botaoApagar = findViewById(R.id.botaoApagar);
         botaoPonto = findViewById(R.id.botaoPonto);
         botaoResultado = findViewById(R.id.botaoResultado);
-        botaoApagar = findViewById(R.id.botaoApagar);
 
         campoTexto = findViewById(R.id.campoTexto);
 
